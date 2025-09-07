@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="CheckHopDong.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DangNhap.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DangKi.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="duan2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form3.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="formChiTietNha2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="formChiTietNha4.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="formChiTietNha5.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="formChiTietNha6.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="formLocNha.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmDuAn.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="fromChiTietNha3.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="HopDongthuenha.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="My Project\Form1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="sukien.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="thongtinnha.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="TrangChu.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
